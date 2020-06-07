@@ -5,7 +5,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/gloudemans/shoppingcart/v/unstable)](https://packagist.org/packages/gloudemans/shoppingcart)
 [![License](https://poser.pugx.org/gloudemans/shoppingcart/license)](https://packagist.org/packages/gloudemans/shoppingcart)
 
-A simple shoppingcart implementation for Laravel.
+A simple shoppingcart implementation for Laravel 5, 6 and 7.
 
 ## Installation
 
@@ -13,7 +13,7 @@ Install the package through [Composer](http://getcomposer.org/).
 
 Run the Composer require command from the Terminal:
 
-    composer require gloudemans/shoppingcart
+    composer require aslam/shoppingcart
     
 If you're using Laravel 5.5, this is all there is to do. 
 
